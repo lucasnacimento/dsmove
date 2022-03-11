@@ -1,4 +1,4 @@
-import { ReactComponent as GithubIcon } from "/projetos/dsmove/frontend/src/assets/img/github.svg";
+import { ReactComponent as GithubIcon } from "/projetos/dsmovie/frontend/src/assets/img/github.svg";
 import './styles.css';
 
 function NavBar() {
